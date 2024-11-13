@@ -8,7 +8,7 @@
     "text": "Jerry Tam"
   },
   "text": {
-    "more": "",
+    "more": "Hollywood Network Graph",
     "intro": "Hollywood Network Graph",
     "title": "HollywoodNetwork"
   },
@@ -19,7 +19,7 @@
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": false,
+    "groupSelectorAttribute": "primaryprofession",
     "hoverBehavior": "dim"
   },
   "informationPanel": {
